@@ -1,19 +1,25 @@
-# AfricasecuritySTM
+<h1 align="center">AfricasecuritySTM</h1>
 
-### Embedded Systems Developer • IoT Systems Engineer • Research-Driven Builder
+<h3 align="center">
+Embedded Systems Developer • IoT Systems Engineer • Research-Driven Builder
+</h3>
 
-> 🔭 The most productive outcome of my research is the embedded systems developer I’m becoming. 🦾
+<p align="center">
+🔭 The most productive outcome of my research is the embedded systems developer I’m becoming. 🦾
+</p>
 
+<p align="center">
 Building intelligent infrastructure systems focused on real-time inventory awareness, embedded intelligence, and operational monitoring technologies.
+</p>
 
 ---
 
-## Current Focus
+## ⚙️ Current Focus
 
 Currently building **Smart Sentinel**, an embedded systems and intelligent infrastructure initiative focused on real-time inventory intelligence systems.
 
-### Active MVP
-**Stock-GuardPro**  
+### Active MVP — Stock-GuardPro
+
 A real-time inventory monitoring system designed to connect physical stock movement to digital operational awareness using:
 
 - Load-cell sensing
@@ -24,7 +30,7 @@ A real-time inventory monitoring system designed to connect physical stock movem
 
 ---
 
-## Engineering Direction
+## 🔬 Engineering Direction
 
 My current engineering interests include:
 
@@ -38,7 +44,7 @@ My current engineering interests include:
 
 ---
 
-## Current Technology Stack
+## 🧠 Current Technology Stack
 
 ### Embedded Systems
 - ESP32
@@ -55,7 +61,7 @@ My current engineering interests include:
 
 ---
 
-## Current Development Areas
+## 📡 Current Development Areas
 
 - Inventory sensing logic
 - Weight-based stock intelligence
@@ -67,7 +73,7 @@ My current engineering interests include:
 
 ---
 
-## Smart Sentinel Vision
+## 🚀 Smart Sentinel Vision
 
 > Real-Time Inventory Awareness Systems — Where Embedded Systems Meet Inventory Intelligence.
 
@@ -80,7 +86,7 @@ Building intelligent inventory infrastructure for:
 
 ---
 
-## Research & Documentation
+## 📚 Research & Documentation
 
 I believe engineering growth should be documented publicly through:
 - architecture thinking,
@@ -92,7 +98,7 @@ This GitHub serves as an evolving engineering workspace documenting my journey i
 
 ---
 
-## Current Repositories
+## 🛠️ Current Repositories
 
 ### Smart Sentinel
 Embedded inventory intelligence infrastructure project.
@@ -102,6 +108,6 @@ Public experimentation space for sensors, calibration systems, embedded testing,
 
 ---
 
-## Long-Term Direction
+## 🌍 Long-Term Direction
 
 Focused on designing intelligent systems that bridge physical infrastructure with real-time digital awareness using embedded systems and operational intelligence technologies.
