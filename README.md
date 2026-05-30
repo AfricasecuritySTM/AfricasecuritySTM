@@ -100,11 +100,7 @@ This GitHub serves as an evolving engineering workspace documenting my journey i
 
 ## 🛠️ Current Repositories
 
-### Smart Sentinel
-Embedded inventory intelligence infrastructure project.
-
-### Embedded Systems Lab
-Public experimentation space for sensors, calibration systems, embedded testing, and infrastructure research.
+### Explore
 
 ---
 
