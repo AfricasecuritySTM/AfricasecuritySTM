@@ -100,7 +100,7 @@ This GitHub serves as an evolving engineering workspace documenting my journey i
 
 ## 🛠️ Current Repositories
 
-### Explore
+### Explore repositories and be in-touch 
 
 ---
 
