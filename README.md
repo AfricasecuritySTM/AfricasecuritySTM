@@ -100,7 +100,7 @@ This GitHub serves as an evolving engineering workspace documenting my journey i
 
 ## 🛠️ Current Repositories
 
-### Explore repositories and be in-touch 
+### LookInto-Africa is a web project completely going to be implimented by Soak's_M.E.E to differentiate communication btween tech-stacks and project mechanical usecase, goal: aiming to round up project in few repo on my site.
 
 ---
 
